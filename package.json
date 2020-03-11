@@ -1,0 +1,18 @@
+{
+    "name": "node-html-email-dispatcher",
+    "version": "1.0.0",
+    "description": "A simple e-mail dispatcher using Node.js",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "mail",
+        "dispatcher",
+        "mailchimp",
+        "nodejs",
+        "js"
+    ],
+    "author": "Leonardo Jacon",
+    "license": "MIT"
+}
